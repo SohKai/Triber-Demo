@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.brettsun.triber_demo.RecentMediaActivity">
+
+    <item android:id="@+id/action_recent_media_toggle_login"
+        android:title="@string/action_login"
+        android:showAsAction="never" />
+
+</menu>

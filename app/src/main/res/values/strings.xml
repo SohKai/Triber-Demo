@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Triber-Demo</string>
+    <string name="title_activity_recent_media">Recent Media</string>
+
+    <!-- Settings -->
+    <string name="action_login">Sign in</string>
+    <string name="action_logout">Log out</string>
+
+    <!-- Text -->
+    <string name="footer_loading_text">Loading...</string>
+    <string name="login_text">Sign in</string>
+    <string name="logout_text">Log out</string>
+    <string name="network_failed_text">Oops! Something went wrong. Please check your network and retry later.</string>
+    <string name="search_user">Search for user</string>
+
+    <!-- Button messages -->
+    <string name="network_retry_button">Retry</string>
+
+    <!-- Toast messages -->
+    <string name="login_failed_text">Opps, we weren\'t able to log into Instagram</string>
+    <string name="media_page_request_failed">Opps, we weren\'t able to load more of the feed</string>
+    <string name="media_request_failed">Opps, we weren\'t able to get the user\'s feed</string>
+    <string name="no_selected_user_text">Opps, we weren\'t able to select that user</string>
+    <string name="search_failed_text">Opps, we weren\'t able to handle that search</string>
+
+    <!-- Content descriptions -->
+    <string name="bg_triber_white_logo">White background Triber logo</string>
+    <string name="bg_triber_red_logo">Red background Triber logo</string>
+
+</resources>
